@@ -1,0 +1,12 @@
+C:\Users\Danielle\OneDrive\Área de Trabalho\C#\DanielleBaer-Recuperacao\bin\Debug\DanielleBaer-Recuperacao.exe.config
+C:\Users\Danielle\OneDrive\Área de Trabalho\C#\DanielleBaer-Recuperacao\bin\Debug\DanielleBaer-Recuperacao.exe
+C:\Users\Danielle\OneDrive\Área de Trabalho\C#\DanielleBaer-Recuperacao\bin\Debug\DanielleBaer-Recuperacao.pdb
+C:\Users\Danielle\OneDrive\Área de Trabalho\C#\DanielleBaer-Recuperacao\obj\Debug\DanielleBaer-Recuperacao.csprojAssemblyReference.cache
+C:\Users\Danielle\OneDrive\Área de Trabalho\C#\DanielleBaer-Recuperacao\obj\Debug\DanielleBaer_Recuperacao.Properties.Resources.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\C#\DanielleBaer-Recuperacao\obj\Debug\DanielleBaer-Recuperacao.csproj.GenerateResource.cache
+C:\Users\Danielle\OneDrive\Área de Trabalho\C#\DanielleBaer-Recuperacao\obj\Debug\DanielleBaer-Recuperacao.csproj.CoreCompileInputs.cache
+C:\Users\Danielle\OneDrive\Área de Trabalho\C#\DanielleBaer-Recuperacao\obj\Debug\DanielleBaer-Recuperacao.exe
+C:\Users\Danielle\OneDrive\Área de Trabalho\C#\DanielleBaer-Recuperacao\obj\Debug\DanielleBaer-Recuperacao.pdb
+C:\Users\Danielle\OneDrive\Área de Trabalho\C#\DanielleBaer-Recuperacao\obj\Debug\DanielleBaer_Recuperacao.frmJogoForca.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\C#\DanielleBaer-Recuperacao\obj\Debug\DanielleBaer_Recuperacao.frmInicial.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\C#\DanielleBaer-Recuperacao\obj\Debug\DanielleBaer_Recuperacao.frmCalculadoraAlvo.resources
