@@ -11,9 +11,9 @@ using System.Windows.Forms;
 namespace DanielleBaer_Recuperacao
 {
 
-    //Calcular os raios de 5 argolas de um alvo com 6 argolas a partir do raio da maior argola, 
-    //onde a maior argola é a de número 6
-    //sendo o raio da maior argola definido pelo usuário
+    //Calcular os raios das argolas de um alvo de 6 argolas
+    //O usuario insere o raio inicial, sendo este o raio da argola 6 (maior argola)
+    //Baseando-se nisso, é feito o calculo das demais argolas 5, 4, 3, 2 e 1
     public partial class frmCalculadoraAlvo : Form
     {
         public frmCalculadoraAlvo()
