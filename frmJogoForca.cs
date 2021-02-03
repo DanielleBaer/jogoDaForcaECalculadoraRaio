@@ -140,21 +140,6 @@ namespace DanielleBaer_Recuperacao
             this.AcceptButton = btConfereLetra;
         }
 
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void gbTentativas_Enter(object sender, EventArgs e)
-        {
-
-        }
-
         private void btJogar_Click(object sender, EventArgs e)
         {
             gbTentativas.BackColor = Color.Transparent;
@@ -167,21 +152,6 @@ namespace DanielleBaer_Recuperacao
             txbLetra.Focus();
             btConfereLetra.Enabled = true;
             this.InicioJogo();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox2_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lbDica_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void btConfereLetra_Click(object sender, EventArgs e)

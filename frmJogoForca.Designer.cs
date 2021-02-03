@@ -109,7 +109,6 @@ namespace DanielleBaer_Recuperacao
             this.groupBox2.TabIndex = 5;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Dica:";
-            this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
             // lbDica
             // 
@@ -121,7 +120,6 @@ namespace DanielleBaer_Recuperacao
             this.lbDica.TabIndex = 0;
             this.lbDica.Text = "textoDica";
             this.lbDica.Visible = false;
-            this.lbDica.Click += new System.EventHandler(this.lbDica_Click);
             // 
             // txbPalavraChave
             // 
@@ -187,7 +185,6 @@ namespace DanielleBaer_Recuperacao
             this.gbTentativas.TabIndex = 4;
             this.gbTentativas.TabStop = false;
             this.gbTentativas.Text = "Tentativas";
-            this.gbTentativas.Enter += new System.EventHandler(this.gbTentativas_Enter);
             // 
             // lbTentativas
             // 
@@ -199,7 +196,6 @@ namespace DanielleBaer_Recuperacao
             this.lbTentativas.Size = new System.Drawing.Size(29, 31);
             this.lbTentativas.TabIndex = 0;
             this.lbTentativas.Text = "6";
-            this.lbTentativas.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -211,7 +207,6 @@ namespace DanielleBaer_Recuperacao
             this.label1.Size = new System.Drawing.Size(142, 25);
             this.label1.TabIndex = 2;
             this.label1.Text = "Palavra chave:";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // btSair
             // 
